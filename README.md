@@ -22,3 +22,12 @@ A simple REST API built with Java and Spring Boot.
 
 ```http
 GET /todos
+## What I learned
+
+In this project, I learned how a Spring Boot controller handles HTTP requests.
+
+- GET is used to read todos.
+- POST is used to create a new todo.
+- PUT is used to update an existing todo.
+- DELETE is used to remove a todo.
+- The todos are currently stored in memory using an ArrayList.
